@@ -9,3 +9,5 @@ It's not meant to be a real game 😁
 ```bash
 go install && go run .
 ```
+
+![](example.png)
